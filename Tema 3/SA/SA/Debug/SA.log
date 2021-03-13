@@ -1,0 +1,20 @@
+﻿  SA.cpp
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 3\SA\SA\SA.cpp(35,28): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 3\SA\SA\SA.cpp(36,52): warning C4305: 'argument': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 3\SA\SA\SA.cpp(46,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 3\SA\SA\SA.cpp(88,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 3\SA\SA\SA.cpp(89,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 3\SA\SA\SA.cpp(101,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 3\SA\SA\SA.cpp(107,22): warning C4244: 'argument': conversion from 'time_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 3\SA\SA\SA.cpp(64,21): warning C4101: 'v2': unreferenced local variable
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 3\SA\SA\SA.cpp(64,7): warning C4101: 'v1': unreferenced local variable
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 3\SA\SA\SA.cpp(125,4): warning C4102: 'std': unreferenced label
+  SA.vcxproj -> D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 3\SA\Debug\SA.exe

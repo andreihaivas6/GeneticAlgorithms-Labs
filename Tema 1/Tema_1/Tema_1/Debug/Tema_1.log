@@ -1,0 +1,9 @@
+﻿  Tema_1.cpp
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 1\Tema_1\Tema_1\Tema_1.cpp(53,31): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 1\Tema_1\Tema_1\Tema_1.cpp(53,57): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 1\Tema_1\Tema_1\Tema_1.cpp(53,69): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 1\Tema_1\Tema_1\Tema_1.cpp(60,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 1\Tema_1\Tema_1\Tema_1.cpp(73,23): warning C4018: '<': signed/unsigned mismatch
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 1\Tema_1\Tema_1\Tema_1.cpp(187,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 1\Tema_1\Tema_1\Tema_1.cpp(56): warning C4715: 'evaluation': not all control paths return a value
+  Tema_1.vcxproj -> D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 1\Tema_1\Debug\Tema_1.exe

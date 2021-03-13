@@ -1,0 +1,18 @@
+﻿  T2p.cpp
+C:\Users\andre\Desktop\T2p\T2p\T2p.cpp(20,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\andre\Desktop\T2p\T2p\T2p.cpp(21,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\andre\Desktop\T2p\T2p\T2p.cpp(35,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\andre\Desktop\T2p\T2p\T2p.cpp(36,17): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\andre\Desktop\T2p\T2p\T2p.cpp(46,15): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\andre\Desktop\T2p\T2p\T2p.cpp(77,81): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Desktop\T2p\T2p\T2p.cpp(123,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Desktop\T2p\T2p\T2p.cpp(267,24): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\andre\Desktop\T2p\T2p\T2p.cpp(268,23): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\andre\Desktop\T2p\T2p\T2p.cpp(209,11): warning C4101: 'Vector': unreferenced local variable
+C:\Users\andre\Desktop\T2p\T2p\T2p.cpp(280,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\andre\Desktop\T2p\T2p\T2p.cpp(303,28): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  T2p.vcxproj -> C:\Users\andre\Desktop\T2p\Debug\T2p.exe

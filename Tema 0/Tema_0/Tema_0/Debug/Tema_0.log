@@ -1,0 +1,6 @@
+﻿  Tema_0.cpp
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 0\Tema_0\Tema_0\Tema_0.cpp(11,23): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 0\Tema_0\Tema_0\Tema_0.cpp(28,23): warning C4018: '<': signed/unsigned mismatch
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 0\Tema_0\Tema_0\Tema_0.cpp(56,27): warning C4018: '<': signed/unsigned mismatch
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 0\Tema_0\Tema_0\Tema_0.cpp(67,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Tema_0.vcxproj -> D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 0\Tema_0\Debug\Tema_0.exe

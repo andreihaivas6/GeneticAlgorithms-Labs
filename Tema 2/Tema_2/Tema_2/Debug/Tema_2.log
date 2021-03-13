@@ -1,0 +1,15 @@
+﻿  Tema_2.cpp
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 2\Tema_2\Tema_2\Tema_2.cpp(34,18): warning C4305: '=': truncation from 'double' to 'float'
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 2\Tema_2\Tema_2\Tema_2.cpp(35,17): warning C4305: '=': truncation from 'double' to 'float'
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 2\Tema_2\Tema_2\Tema_2.cpp(45,15): warning C4305: '=': truncation from 'double' to 'float'
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 2\Tema_2\Tema_2\Tema_2.cpp(76,81): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 2\Tema_2\Tema_2\Tema_2.cpp(110,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 2\Tema_2\Tema_2\Tema_2.cpp(195,11): warning C4101: 'Vector': unreferenced local variable
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 2\Tema_2\Tema_2\Tema_2.cpp(247,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 2\Tema_2\Tema_2\Tema_2.cpp(270,28): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 2\Tema_2\Tema_2\Tema_2.cpp(283,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Tema_2.vcxproj -> D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 2\Tema_2\Debug\Tema_2.exe

@@ -1,0 +1,20 @@
+\begin{table}[]
+\centering
+\begin{tabular}{|c|c|c|c|c|c|c|c|}
+\hline
+N                   & PM                	& ALG & Min & Max & Medie & Dev. St. & Timp (s) 					\\  \hline \Xhline{3\arrayrulewidth}
+5  & 0.01              & AG 			& 0  &  3.05772e-08  &  1.447321e-08  &  6.520277e-09 & 334.9706   			\\ \cline{2-8} \Xhline{3\arrayrulewidth}
+         5           & 0.001            	& AG  & 6.11544e-09  &  2.44618e-08  &  1.467706e-08  &  5.922612e-09 & 333.3242   	  \\ \hline
+          5          & \multirow{2}{*}{} 	& HC & 1.1921e-10     & 1.1921e-10     & 1.1921e-10  & 0      & 130.9994      		\\ \hline
+           5         &                   	& SA & 3.53361e-07  &  6.81356e-06  &  2.652877e-06  &  1.833866e-06    & 110.23       \\ \hline \hline\Xhline{3\arrayrulewidth}
+10 & 0.01              				& AG & 1.22309e-08  &  4.89235e-08  &  2.935413e-08  &  9.951982e-09 & 649.6798       	 \\ \hline \Xhline{3\arrayrulewidth}
+10            & 0.001                   	& AG &  1.22309e-08  &  4.89235e-08  &  3.322724e-08  &  1.024358e-08 &    660.3437    \\ \hline 
+        10    & \multirow{2}{*}{}       	& HC  & 2.38419e-10    & 2.38419e-10    & 2.38419e-10 & 0          & 798.512  		\\ \hline
+             10     &                 	  	& SA  & 2.20209e-06  &  1.44894e-05  &  6.175147e-06  &  2.691621e-06        & 151.96196         \\ \hline  \hline
+30 & 0.01              				& AG  &   1.30965  &  7.74015  &  5.508911  &  1.847386      &   1992.465      		 \\  \hline  \Xhline{3\arrayrulewidth}
+            30      & 0.001             	& AG  & 6.72699e-08  &  1.3454e-07  &  9.213937e-08  &  1.826853e-08    &   1988.223     \\  \hline \Xhline{3\arrayrulewidth}
+        30    & \multirow{2}{*}{} 		& HC  & 7.15257e-10    & 7.15257e-10    & 7.15257e-10 & 0      & 13244             	\\  \hline 
+         30         &                   	& SA  & 1.12774e-05  &  4.8037e-05  &  2.462637e-05  &  7.484605e-06      &  248.8656          \\ \hline
+\end{tabular}
+\caption{Schwefel}
+\end{table}

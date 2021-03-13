@@ -1,0 +1,18 @@
+﻿  GA.cpp
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 3\GA\GA\GA.cpp(51,17): warning C4305: '=': truncation from 'double' to 'float'
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 3\GA\GA\GA.cpp(55,17): warning C4305: '=': truncation from 'double' to 'float'
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 3\GA\GA\GA.cpp(56,19): warning C4305: '=': truncation from 'double' to 'float'
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 3\GA\GA\GA.cpp(61,19): warning C4305: '=': truncation from 'double' to 'float'
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 3\GA\GA\GA.cpp(83,11): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 3\GA\GA\GA.cpp(95,32): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 3\GA\GA\GA.cpp(97,33): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 3\GA\GA\GA.cpp(113,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 3\GA\GA\GA.cpp(126,19): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 3\GA\GA\GA.cpp(138,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 3\GA\GA\GA.cpp(153,28): warning C4244: 'argument': conversion from 'time_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 3\GA\GA\GA.cpp(208,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  GA.vcxproj -> D:\Facultate\MATERII\An 2 Sem1\5. AG_opt\Tema 3\GA\Debug\GA.exe
